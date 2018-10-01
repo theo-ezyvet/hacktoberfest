@@ -1,2 +1,2 @@
 # hacktoberfest
-23
+18
